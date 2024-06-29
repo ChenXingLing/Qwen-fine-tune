@@ -257,7 +257,7 @@ factory也reset一下，不然磁盘空间会爆！
 
 训练效果：
 
-![](./src/train_full.png)
+![](./src/train_full.PNG)
 
 #### **3.【LoRA微调】**
 
@@ -298,7 +298,7 @@ trainable params: 1,181,696 || all params: 465,171,456 || trainable%: 0.2540
 
 训练效果：
 
-![](./src/train_peft.png)
+![](./src/train_peft.PNG)
 
 ### **【测试】**
 
